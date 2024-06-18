@@ -1,2 +1,2 @@
-# comprehensive-VIC-simulation-platform
+# Comprehensive-VIC-simulation-platform
 VEC仿真平台
